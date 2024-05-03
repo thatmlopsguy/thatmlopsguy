@@ -64,7 +64,9 @@ Researcher engineer with over 8 years of experience designing and developing pra
   - Service Mesh
     - Istio
   - Chaos Engineering
-    - Litmus
+    - Litmus, Chaos Mesh
+  - Disaster Recovery
+    - Velero
 
 <div align="center">
 <p>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. Have a good day!</p>

@@ -1,17 +1,21 @@
-# Hi there 👋
+# Hi there
 
-## I'm that MLOps guy 🤖
+## 🤖 I'm that MLOps guy
 
 - 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 8 years of experience as a SysAdmin, currently working as Cloud Engineer, always open to learning new technologies and procedures to improve every day more as a professional.
 - 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
 - 📚 I’m currently increasing my skills on AWS, Azure, K8S, Python, Backstage and some automation tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
 - 🌱 Goals: Increase my programming skills.
 
-## About me
+## 👋 About me
 
 Researcher engineer with over 8 years of experience designing and developing practical intelligent systems.
 
-## Tooling
+## ✍ Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
+
+## 🔧 Tooling
 
 <p align="center">
   <a href="https://skillicons.dev">

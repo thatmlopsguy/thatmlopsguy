@@ -58,7 +58,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   - Storage
     - Longhorn
   - Continuous Integration & Delivery:
-    - ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts, Keptn, Shipwright
+    - ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts, Keptn, Kargo, Shipwright
   - Logging and Tracing
     - Kiali, Jaeger, Promtail
   - Monitoring

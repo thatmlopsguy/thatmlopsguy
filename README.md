@@ -36,11 +36,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 * Database
   * Mysql, PostgreSQL, MariaDB, MongoDB
 * Cache:
-  * Redis, MemCached
+  * Redis
 * Containers
-  * Docker, AKS, Kubernetes
+  * Docker, Kubernetes, AKS
 * CI/CD
-  * ArgoCD, GitHub Actions, Jenkins
+  * ArgoCD, GitHub Actions, Jenkins, Azure Pipelines
 * Monitoring
   * Prometheus
 * Security/Policy

@@ -18,6 +18,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 🏅 Certificates and Badges
 
 <a href="https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/> </a>
+<a href="https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/> </a>
 
 ## 🔧 Tooling
 

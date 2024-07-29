@@ -15,6 +15,10 @@ Researcher engineer with over 8 years of experience designing and developing pra
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 
+## 🏅 Certificates and Badges
+
+<a href="https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/> </a>
+
 ## 🔧 Tooling
 
 <p align="center">

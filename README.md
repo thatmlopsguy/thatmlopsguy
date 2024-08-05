@@ -11,14 +11,18 @@
 
 Researcher engineer with over 8 years of experience designing and developing practical intelligent systems.
 
+## ☎️ Contact Methods
+
+Find all of my contact methods [here](https://thatmlopsguy.github.io/contact/).
+
 ## ✍ Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 
 ## 🏅 Certificates and Badges
 
-<a href="https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/> </a>
-<a href="https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/> </a>
+<a href="https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/></a>
 
 ## 🔧 Tooling
 
@@ -78,7 +82,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
     - Velero
 
 <div align="center">
-<p>If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself. Have a good day!</p>
+<p>If you have any suggestions to this README, feel free to pull up a request.</p>
+<p>Have a good day!</p>
 <div>
 
 ![Visitor Count](https://profile-counter.glitch.me/thatmlopsguy/count.svg)

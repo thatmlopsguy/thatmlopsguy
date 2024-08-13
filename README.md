@@ -57,29 +57,28 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### The Cloud Native Computing Foundation (CNCF)
 
-- Kubernetes
-  - Scheduling & Orchestration
-    - Crossplane, Keda, Karpenter, Kubeflow
-  - Application Definition
-    - Backstage, Kustomize, Helm, dapr
-  - Secret Management
-    - Cert Manager, Bitnami Sealed Secrets, External Secrets, Hashicorp Vault
-  - Storage
-    - Longhorn
-  - Continuous Integration & Delivery:
-    - ArgoCD AutoPilot, ArgoCD, Argo Events, Argo Workflows, Argo Rollouts, Keptn, Kargo, Shipwright
-  - Logging and Tracing
-    - Kiali, Jaeger, Promtail
-  - Monitoring
-    - Alert Manager, Prometheus, Grafana, Loki, Netdata
-  - Security & Compliance
-    - Trivy, Kyverno, Paralus
-  - Service Mesh
-    - Istio
-  - Chaos Engineering
-    - Litmus, Chaos Mesh
-  - Disaster Recovery
-    - Velero
+- Scheduling & Orchestration
+  - Crossplane, Keda, Karpenter, Kubeflow
+- Application Definition
+  - Backstage, Kustomize, Helm, dapr
+- Secret Management
+  - Cert Manager, Bitnami Sealed Secrets, External Secrets, Hashicorp Vault
+- Storage
+  - Longhorn
+- Continuous Integration & Delivery:
+  - ArgoCD, Argo Workflows, Argo Rollouts, Keptn, Kargo, Shipwright
+- Logging and Tracing
+  - Loki, Promtail, Jaeger, Zipkin, Tempo 
+- Monitoring
+  - Alert Manager, Prometheus, Grafana
+- Security & Compliance
+  - Trivy, Kyverno, Paralus
+- Service Mesh
+  - Istio
+- Chaos Engineering
+  - Litmus, Chaos Mesh
+- Disaster Recovery
+  - Velero
 
 <div align="center">
 <p>If you have any suggestions to this README, feel free to pull up a request.</p>

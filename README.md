@@ -1,4 +1,4 @@
-# Hi there
+# Hi there <img src="images/wave.gif" width="30px" height="30px" />
 
 ## 🤖 I'm that MLOps guy
 

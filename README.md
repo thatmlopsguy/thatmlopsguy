@@ -28,57 +28,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,kubernetes,docker,github,gitlab,jenkins,githubactions,aws,azure,bash,ansible,bitbucket,fastapi,flask,grafana,kafka,latex,md,mongodb,mysql,nginx,opencv,postgres,postman,prometheus,py,pytorch,rabbitmq,redhat,redis,sqlite,tensorflow,terraform,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,git,kubernetes,docker,github,gitlab,jenkins,githubactions,aws,azure,bash,ansible,bitbucket,fastapi,flask,grafana,kafka,latex,md,mongodb,mysql,nginx,opencv,postgres,postman,prometheus,py,pytorch,r,rabbitmq,redhat,redis,regex,sqlite,tensorflow,terraform,vscode" />
   </a>
 </p>
-
-* ITSM / CMDB
-  * Jira/Confluence
-* Operation System
-  * Linux/Unix (Red Hat, Debian)
-* Version Control System (VCS)
-  * BitBucket, AzureDevops, Gitlab and Github
-* Infrastructure as Code
-  * Terraform, Crossplane
-* Configuration Management
-  * Ansible
-* Database
-  * Mysql, PostgreSQL, MariaDB, MongoDB
-* Cache:
-  * Redis
-* Containers
-  * Docker, Kubernetes, AKS
-* CI/CD
-  * ArgoCD, GitHub Actions, Jenkins, Azure Pipelines
-* Monitoring
-  * Prometheus
-* Security/Policy
-  * Checkov
-
-### The Cloud Native Computing Foundation (CNCF)
-
-- Scheduling & Orchestration
-  - Crossplane, Keda, Karpenter, Kubeflow
-- Application Definition
-  - Backstage, Kustomize, Helm, dapr
-- Secret Management
-  - Cert Manager, Bitnami Sealed Secrets, External Secrets, Hashicorp Vault
-- Storage
-  - Longhorn
-- Continuous Integration & Delivery:
-  - ArgoCD, Argo Workflows, Argo Rollouts, Keptn, Kargo, Shipwright
-- Logging and Tracing
-  - Loki, Promtail, Jaeger, Zipkin, Tempo 
-- Monitoring
-  - Alert Manager, Prometheus, Grafana
-- Security & Compliance
-  - Trivy, Kyverno, Paralus
-- Service Mesh
-  - Istio
-- Chaos Engineering
-  - Litmus, Chaos Mesh
-- Disaster Recovery
-  - Velero
 
 <div align="center">
 <p>If you have any suggestions to this README, feel free to pull up a request.</p>

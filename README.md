@@ -4,7 +4,7 @@
 
 - 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 8 years of experience as a SysAdmin, currently working as Cloud Engineer, always open to learning new technologies and procedures to improve every day more as a professional.
 - 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
-- 📚 I’m currently increasing my skills on AWS, Azure, K8S, Python, Backstage and some automation tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
+- 📚 I’m currently increasing my skills on AWS, Azure, K8S, Python and some automation tools like Argo (CD, Autopilot, Events, Rollouts and Workflows).
 - 🌱 Goals: Increase my programming skills.
 
 ## 👋 About me

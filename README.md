@@ -36,5 +36,3 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <p>If you have any suggestions to this README, feel free to pull up a request.</p>
 <p>Have a good day!</p>
 <div>
-
-![Visitor Count](https://profile-counter.glitch.me/thatmlopsguy/count.svg)

@@ -25,13 +25,26 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Tooling
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,kubernetes,docker,github,gitlab,jenkins,githubactions,aws,azure,bash,ansible,bitbucket,fastapi,flask,grafana,kafka,latex,md,mongodb,mysql,nginx,opencv,postgres,postman,prometheus,py,pytorch,r,rabbitmq,redhat,redis,regex,sqlite,tensorflow,terraform,vscode" />
-  </a>
-</p>
+### Languages
 
-<div align="center">
-<p>If you have any suggestions to this README, feel free to pull up a request.</p>
-<p>Have a good day!</p>
-<div>
+[![Languages Skills](https://skillicons.dev/icons?i=python,bash)](https://skillicons.dev)
+
+### Cloud
+
+[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,azure,linux,terraform,ansible,githubactions,jenkins,gitlab)](https://skillicons.dev)
+
+### Backend
+
+[![Backend Skills](https://skillicons.dev/icons?i=flask,fastapi,postgres,python)](https://skillicons.dev)
+
+### Databases & Messaging
+
+[![Database Skills](https://skillicons.dev/icons?i=sqlite,mongodb,postgresql,mysql,redis,rabbitmq,kafka)](https://skillicons.dev)
+
+### Machine Learning
+
+[![ML Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](https://skillicons.dev)
+
+### Other Tools
+
+[![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,grafana,prometheus,latex,md,regex)](https://skillicons.dev)

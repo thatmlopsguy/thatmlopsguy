@@ -23,6 +23,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/></a>
 
+## 🔓 Creator and maintainer of these projects
+
+- [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for the asdf version manager.
+- [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects.
+- [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks.
+
 ## 🔧 Tooling
 
 ### Languages

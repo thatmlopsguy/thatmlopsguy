@@ -48,3 +48,30 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### Other Tools
 
 [![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,grafana,prometheus,latex,md,regex)](https://skillicons.dev)
+
+## 🌐 Consulting Services
+
+I provide consulting to companies, teams, and projects of all sizes, helping them achieve technical excellence, high efficiency, and better human cohesion.
+
+- **Remote:** Available globally 🌎
+- **In-Person:** Portugal 🇵🇹
+
+**🚀 DevOps leadership**
+
+Leverage state-of-the-art Dev/MLOps practices and tools! With 8+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
+
+As an experienced Tech Leader, Project Manager and Individual Contributor, I can provide input throughout all your software development and operation chain - for technical and business needs alike. 
+
+**☁️ Cloud Architecture**
+
+Want to improve your Cloud architecture for better scalability, security and cost optimization? Your team needs CI/CD, Infrastructure as Code and better automation? That's part of the package!
+
+## 🧑‍💻 Professional Training
+
+I provide training sessions desgigned around practical skills and deep understanding around DevOps tools and methodologies such as:
+
+- **Kubernetes** Master and manage at scale deployment of containerized applications.
+- **Infrastructure as Code** Use real code for your Infrastructure as Code.
+- **DevOps for Organizations** Develop a strong DevOps culture with essential practices and tools.
+
+From 1 to 3-day intensive workshops or 1-on-1 coaching sessions, my training are designed around practical exercises and real-world scenarios for maximum impact.

@@ -2,13 +2,13 @@
 
 ## 🤖 I'm that MLOps guy
 
-- 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, with 8 years of experience as a SysAdmin, currently working as Cloud Engineer, always open to learning new technologies and procedures to improve every day more as a professional.
+- 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, always open to learning new technologies and procedures to improve every day more as a professional.
 - 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
 - 📚 I’m currently increasing my skills on AWS, Azure, K8S, Python and some automation tools like Argo.
 
 ## 👋 About me
 
-{Dev/ML}Ops engineer with over 8 years of experience designing and developing practical intelligent systems.
+{Dev/ML}Ops engineer with over 8 years of experience designing and developing practical intelligent systems. I work as a freelance Consultant and Trainer. I’m also open to considering more [permanent/full-time roles](https://thatmlopsguy.github.io/hire/).
 
 ## ☎️ Contact Methods
 
@@ -56,7 +56,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,grafana,prometheus,latex,md,regex)](https://skillicons.dev)
 
-## 🌐 Consulting Services
+## 🌐 [Consulting Services](https://thatmlopsguy.github.io/consulting/)
 
 I provide consulting to companies, teams, and projects of all sizes, helping them achieve technical excellence, high efficiency, and better human cohesion.
 
@@ -67,7 +67,9 @@ I provide consulting to companies, teams, and projects of all sizes, helping the
 
 Leverage state-of-the-art Dev/MLOps practices and tools! With 8+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
 
-As an experienced Tech Leader, Project Manager and Individual Contributor, I can provide input throughout all your software development and operation chain - for technical and business needs alike. 
+As an experienced Tech Leader, Project Manager and Individual Contributor, I can provide input throughout all your software development and operation chain - for technical and business needs alike.
+
+Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you. If we agree that I could help you, we can schedule a chat.
 
 **☁️ Cloud Architecture**
 

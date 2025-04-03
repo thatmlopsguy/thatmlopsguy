@@ -38,6 +38,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### Cloud
 
 [![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,azure,linux,terraform,ansible,githubactions,jenkins,gitlab)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original.svg" height="45" alt="argocd logo"/>
 
 ### Backend
 

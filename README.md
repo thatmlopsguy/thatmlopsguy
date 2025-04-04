@@ -12,7 +12,7 @@
 
 ## ☎️ Contact Methods
 
-Find all of my contact methods [here](https://thatmlopsguy.github.io/contact/).
+Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you. If we agree that I could help you, we can schedule a chat.
 
 ## ✍ Blog & Writing
 
@@ -78,5 +78,3 @@ I provide training sessions desgigned around practical skills and deep understan
 - **DevOps for Organizations** Develop a strong DevOps culture with essential practices and tools.
 
 From 1 to 3-day intensive workshops or 1-on-1 coaching sessions, my training are designed around practical exercises and real-world scenarios for maximum impact.
-
-Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you. If we agree that I could help you, we can schedule a chat.

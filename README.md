@@ -8,7 +8,7 @@
 
 ## 👋 About me
 
-{Dev/ML}Ops engineer with over 8 years of experience designing and developing practical intelligent systems. I work as a freelance Consultant and Trainer. I’m also open to considering more [permanent/full-time roles](https://thatmlopsguy.github.io/hire/).
+{Dev/ML}Ops engineer with over 8 years of experience designing and developing practical intelligent systems.
 
 ## ☎️ Contact Methods
 
@@ -38,7 +38,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ### Cloud
 
 [![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,azure,linux,terraform,ansible,githubactions,jenkins,gitlab)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/argocd/argocd-original.svg" height="45" alt="argocd logo"/>
 
 ### Backend
 
@@ -60,16 +59,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 I provide consulting to companies, teams, and projects of all sizes, helping them achieve technical excellence, high efficiency, and better human cohesion.
 
-- **Remote:** Available globally 🌎
-- **In-Person:** Portugal 🇵🇹
-
 **🚀 DevOps leadership**
 
 Leverage state-of-the-art Dev/MLOps practices and tools! With 8+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
 
 As an experienced Tech Leader, Project Manager and Individual Contributor, I can provide input throughout all your software development and operation chain - for technical and business needs alike.
-
-Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you. If we agree that I could help you, we can schedule a chat.
 
 **☁️ Cloud Architecture**
 
@@ -84,3 +78,5 @@ I provide training sessions desgigned around practical skills and deep understan
 - **DevOps for Organizations** Develop a strong DevOps culture with essential practices and tools.
 
 From 1 to 3-day intensive workshops or 1-on-1 coaching sessions, my training are designed around practical exercises and real-world scenarios for maximum impact.
+
+Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you. If we agree that I could help you, we can schedule a chat.

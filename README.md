@@ -8,7 +8,7 @@
 
 ## 👋 About me
 
-{Dev/ML}Ops engineer with over 8 years of experience designing and developing practical intelligent systems.
+{Dev/ML}Ops engineer with over 9 years of experience designing and developing practical intelligent systems.
 
 ## ☎️ Contact Methods
 
@@ -25,7 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔓 Creator and maintainer of these projects
 
-- [DoKa Seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
+- [doKa-seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
 - [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for the asdf version manager.
 - [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects.
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks.

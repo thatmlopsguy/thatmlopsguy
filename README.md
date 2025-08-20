@@ -26,9 +26,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## 🔓 Creator and maintainer of these projects
 
 - [doKa-seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
-- [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for the asdf version manager.
-- [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects.
-- [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks.
+- [github-repo-operator-ansible](https://github.com/thatmlopsguy/github-repo-operator-ansible): kubernetes operator for managing gitHub repositories 
+- [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for the asdf version manager
+- [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
+- [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
 
 ## 🔧 Tooling
 
@@ -62,7 +63,7 @@ I provide consulting to companies, teams, and projects of all sizes, helping the
 
 **🚀 DevOps leadership**
 
-Leverage state-of-the-art Dev/MLOps practices and tools! With 8+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
+Leverage state-of-the-art Dev/MLOps practices and tools! With 9+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
 
 As an experienced Tech Leader, Project Manager and Individual Contributor, I can provide input throughout all your software development and operation chain - for technical and business needs alike.
 

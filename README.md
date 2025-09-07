@@ -44,7 +44,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Backend
 
-[![Backend Skills](https://skillicons.dev/icons?i=flask,fastapi,postgres,python)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
 
 ### Databases & Messaging
 

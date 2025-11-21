@@ -37,11 +37,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Languages
 
-[![Languages Skills](https://skillicons.dev/icons?i=python,bash)](https://skillicons.dev)
+[![Languages Skills](https://skillicons.dev/icons?i=python,go,bash,r)](https://skillicons.dev)
 
 ### Cloud
 
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,azure,linux,terraform,ansible,githubactions,jenkins,gitlab)](https://skillicons.dev)
+[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,azure,linux,terraform,ansible,github,githubactions,jenkins,gitlab)](https://skillicons.dev)
 
 ### Backend
 
@@ -53,7 +53,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Machine Learning
 
-[![ML Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](https://skillicons.dev)
+[![ML Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
 
 ### Other Tools
 

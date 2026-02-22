@@ -1,14 +1,13 @@
 # Hi there <img src="images/wave.gif" width="30px" height="30px" />
 
-## 🤖 I'm that MLOps guy
-
-- 🚀 Enthusiastic about the DevOps culture and focused on Open Source technologies, I am passionate about automation, always open to learning new technologies and procedures to improve every day more as a professional.
-- 👀 I’m interested in Open Source projects (Linux, CNCF, GitOps and Tools)
-- 📚 I’m currently increasing my skills on AWS, Azure, K8S, Python and some automation tools like Argo.
-
 ## 👋 About me
 
-{Dev/ML}Ops engineer with over 9 years of experience designing and developing practical intelligent systems.
+Cloud Architect, {Dev/ML}Ops & Platform Engineer engineer with over `10 years of experience` designing and developing practical intelligent systems.
+
+Enthusiastic about the DevOps culture and focused on Open Source technologies. My current focus is modern cloud infrastructure - I remove roadblocks and get teams back into productive flow.
+
+Today I design highly automated, secure, and scalable cloud and container platforms that let development teams concentrate fully on their core product.
+
 
 ## ☎️ Contact Methods
 
@@ -65,7 +64,7 @@ I provide consulting to companies, teams, and projects of all sizes, helping the
 
 **🚀 DevOps leadership**
 
-Leverage state-of-the-art Dev/MLOps practices and tools! With 9+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
+Leverage state-of-the-art Dev/MLOps practices and tools! With 10+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
 
 As an experienced Tech Leader, Project Manager and Individual Contributor, I can provide input throughout all your software development and operation chain - for technical and business needs alike.
 

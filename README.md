@@ -40,7 +40,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ### Cloud
 
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,azure,linux,terraform,ansible,github,githubactions,jenkins,gitlab)](https://skillicons.dev)
+[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,azure,linux,terraform,ansible,github,githubactions,jenkins,gitlab)](https://skillicons.dev)
 
 ### Backend
 

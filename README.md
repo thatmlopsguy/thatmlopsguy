@@ -8,14 +8,11 @@ Enthusiastic about the DevOps culture and focused on Open Source technologies. M
 
 Today I design highly automated, secure, and scalable cloud and container platforms that let development teams concentrate fully on their core product.
 
+You can find more information about me on my personal site at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 
 ## ☎️ Contact Methods
 
 Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you. If we agree that I could help you, we can schedule a chat.
-
-## ✍ Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 
 ## 🏅 Certificates and Badges
 

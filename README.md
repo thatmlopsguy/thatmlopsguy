@@ -61,9 +61,8 @@ I provide consulting to companies, teams, and projects of all sizes, helping the
 
 **🚀 DevOps leadership**
 
-Leverage state-of-the-art Dev/MLOps practices and tools! With 10+ years experience in DevOps, Software Development and IT, I drive teams toward efficient and scalable Development and IT Operation practices. 
-
-As an experienced Tech Leader, Project Manager and Individual Contributor, I can provide input throughout all your software development and operation chain - for technical and business needs alike.
+Leverage state-of-the-art Dev/MLOps practices and tools! As an experienced Tech Leader, Project Manager and Individual Contributor, 
+I can provide input throughout all your software development and operation chain - for technical and business needs alike.
 
 **☁️ Cloud Architecture**
 

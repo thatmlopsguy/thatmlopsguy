@@ -1,6 +1,6 @@
 # Hi there <img src="images/wave.gif" width="30px" height="30px" />
 
-## 👋 About me
+## 👨 About me
 
 Cloud Architect, {Dev/ML}Ops & Platform Engineer engineer with over `10 years of experience` designing and developing practical intelligent systems.
 

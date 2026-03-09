@@ -37,7 +37,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Cloud
 
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,azure,linux,terraform,ansible,github,githubactions,jenkins,gitlab)](https://skillicons.dev)
+[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,github,githubactions,jenkins,gitlab,bitbucket)](https://skillicons.dev)
 
 ### Backend
 

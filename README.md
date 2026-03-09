@@ -33,27 +33,27 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Languages
 
-[![Languages Skills](https://skillicons.dev/icons?i=python,go,bash,r)](https://skillicons.dev)
+[![Languages Skills](https://skills.syvixor.com/api/icons?i=python,go,bash,zshell,r)](https://skillicons.dev)
 
 ### Cloud
 
-[![Cloud Skills](https://skillicons.dev/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,github,githubactions,jenkins,gitlab,bitbucket)](https://skillicons.dev)
+[![Cloud Skills](https://skills.syvixor.com/api/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,argocd,github,githubactions,jenkins,gitlab,grafana,prometheus,loki,tempo,opentelemetry,slurm,bitbucket,snyk,servicenow,jira)](https://skillicons.dev)
 
 ### Backend
 
-[![Backend Skills](https://skillicons.dev/icons?i=flask,fastapi)](https://skillicons.dev)
+[![Backend Skills](https://skills.syvixor.com/api/icons?i=flask,fastapi,celery,raylib,pytest)](https://skillicons.dev)
 
 ### Databases & Messaging
 
-[![Database Skills](https://skillicons.dev/icons?i=sqlite,mongodb,postgresql,mysql,redis,rabbitmq,kafka)](https://skillicons.dev)
+[![Database Skills](https://skills.syvixor.com/api/icons?i=sqlite,mongodb,postgresql,mysql,clickhouse,redis,rabbitmq,kafka,weaviate,dbeaver)](https://skillicons.dev)
 
 ### Machine Learning
 
-[![ML Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
+[![ML Skills](https://skills.syvixor.com/api/icons?i=huggingface,tensorflow,pytorch,sklearn,opencv,dvc,jupyter,googlegemini)](https://skillicons.dev)
 
 ### Other Tools
 
-[![Other Skills](https://skillicons.dev/icons?i=vscode,git,docker,grafana,prometheus,latex,md,regex)](https://skillicons.dev)
+[![Other Skills](https://skills.syvixor.com/api/icons?i=vscode,git,docker,latex,md,regex,cookiecutter,githubpages,slack)](https://skillicons.dev)
 
 ## 🌐 [Consulting Services](https://thatmlopsguy.github.io/consulting/)
 

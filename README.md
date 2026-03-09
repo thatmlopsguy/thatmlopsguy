@@ -41,7 +41,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Backend
 
-[![Backend Skills](https://skills.syvixor.com/api/icons?i=flask,fastapi,celery,raylib,pytest)](https://skillicons.dev)
+[![Backend Skills](https://skills.syvixor.com/api/icons?i=flask,fastapi,celery,raylib,pytest,grpc)](https://skillicons.dev)
 
 ### Databases & Messaging
 
@@ -53,7 +53,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Other Tools
 
-[![Other Skills](https://skills.syvixor.com/api/icons?i=vscode,git,docker,latex,md,regex,cookiecutter,githubpages,slack)](https://skillicons.dev)
+[![Other Skills](https://skills.syvixor.com/api/icons?i=vscode,git,docker,latex,md,yaml,regex,cookiecutter,githubpages,slack)](https://skillicons.dev)
 
 ## 🌐 [Consulting Services](https://thatmlopsguy.github.io/consulting/)
 

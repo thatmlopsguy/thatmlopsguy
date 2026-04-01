@@ -28,6 +28,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 - [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for the asdf version manager
 - [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
+- [helm-charts](https://thatmlopsguy.github.io/helm-charts/): personal helm chart repository with charts for my projects and other useful tools
 
 ## 🔧 Tooling
 
@@ -55,6 +56,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 [![Other Skills](https://skills.syvixor.com/api/icons?i=vscode,git,docker,latex,md,yaml,regex,cookiecutter,githubpages,slack)](https://skillicons.dev)
 
-## 🌐 [Consulting Services](https://thatmlopsguy.github.io/consulting/)
+## 🌐 Consulting Services
 
 I provide consulting to companies, teams, and projects of all sizes, helping them achieve technical excellence, high efficiency, and better human cohesion.
+See my [consulting page](https://thatmlopsguy.github.io/consulting/) for more details and to get in touch.

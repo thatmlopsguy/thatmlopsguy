@@ -2,11 +2,9 @@
 
 ## 👨 About me
 
-Cloud Architect, {Dev/ML}Ops & Platform Engineer engineer with over `10 years of experience` designing and developing practical intelligent systems.
+Cloud Architect, {Dev/ML}Ops & Platform Engineer engineer with over `10 years of experience` building practical, production-ready intelligent systems.
 
-Enthusiastic about the DevOps culture and focused on Open Source technologies. My current focus is modern cloud infrastructure - I remove roadblocks and get teams back into productive flow.
-
-Today I design highly automated, secure, and scalable cloud and container platforms that let development teams concentrate fully on their core product.
+Enthusiastic about DevOps culture and open source, I focus on modern cloud infrastructure—removing roadblocks so teams return to productive flow. I design highly automated, secure, and scalable cloud and container platforms that enable development teams to concentrate on their core product.
 
 You can find more information about me on my personal site at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 
@@ -60,3 +58,5 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 I provide consulting to companies, teams, and projects of all sizes, helping them achieve technical excellence, high efficiency, and better human cohesion.
 See my [consulting page](https://thatmlopsguy.github.io/consulting/) for more details and to get in touch.
+
+<p align="center"><img src="images/handshake.gif" alt="handshake" style="width:20%; height:auto;" /></p>

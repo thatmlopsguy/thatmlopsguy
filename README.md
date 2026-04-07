@@ -2,7 +2,7 @@
 
 ## 👨 About me
 
-Cloud Architect, {Dev/ML}Ops & Platform Engineer engineer with over `10 years of experience` building practical, production-ready intelligent systems.
+Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` building practical, production-ready intelligent systems.
 
 Enthusiastic about DevOps culture and open source, I focus on modern cloud infrastructure—removing roadblocks so teams return to productive flow. I design highly automated, secure, and scalable cloud and container platforms that enable development teams to concentrate on their core product.
 

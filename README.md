@@ -28,7 +28,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
 - [helm-charts](https://thatmlopsguy.github.io/helm-charts/): personal helm chart repository with charts for my projects and other useful tools
 
-## 🔧 Tooling
+## 🔧 Tech Stack
 
 ### Languages
 

@@ -27,6 +27,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 - [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
 - [helm-charts](https://thatmlopsguy.github.io/helm-charts/): personal helm chart repository with charts for my projects and other useful tools
+- [k8sResourceResizer](https://github.com/thatmlopsguy/k8sResourceResizer): GitOps/ArgoCD compatible tool for resizing kubernetes resource limits and requests based on historical usage patterns
 
 ## 🔧 Tech Stack
 

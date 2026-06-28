@@ -17,6 +17,8 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 <a href="https://www.credly.com/badges/726d0c60-e176-4f83-9812-e82f0374337a/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-fundamentals.png" alt="GitOps Fundamentals" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/></a>
+<a href="https://www.credential.net/719ca7e1-c498-4e23-96f9-03215938c020#acc.1LbTzpI0" target="_blank" rel="noreferrer"> <img src="images/akuity-argocd.png" alt="GitOps Akuity" width="120" height="120"/></a>
+<a href="https://academy.akuity.io/certificates/gyn6a8rxrd" target="_blank" rel="noreferrer"> <img src="images/akuity-kargo.png" alt="Kargo Akuity" width="120" height="120"/></a>
 
 ## 🔓 Creator and maintainer of these projects
 

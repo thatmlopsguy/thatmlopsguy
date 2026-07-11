@@ -4,8 +4,10 @@
 
 Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` building practical, production-ready intelligent systems.
 
-Enthusiastic about DevOps culture and open source, I focus on modern cloud infrastructure, removing roadblocks so teams return to productive flow.
-I design highly automated, secure, and scalable cloud and container platforms that enable development teams to concentrate on their core product.
+A strong believer in GitOps and platform engineering, I work extensively with **ArgoCD** (including Events, Rollouts, and Workflows) and **Backstage** to empower developer self-service and streamline day-to-day operations.
+I focus on cloud-native ecosystems, particularly around **Kubernetes**, observability, and cross-account infrastructure management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their core product.
+
+Passionate about **Open Source** and **Developer Experience (DevEx)**, I actively contribute to building scalable internal platforms that remove roadblocks and return teams to productive flow.
 
 You can find more information about me on my personal site at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 

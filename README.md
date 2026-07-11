@@ -28,7 +28,10 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 <a href="https://academy.akuity.io/certificates/gyn6a8rxrd" target="_blank" rel="noreferrer"> <img src="images/akuity-kargo.png" alt="Kargo Akuity" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/d1738c92-40dd-4ffb-9b41-28efe653d148/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs158.png" alt="LFS158" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/13a0601e-9d73-4433-81f6-8954df9602d1/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs148.png" alt="LFS148" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/2a3d76f2-015e-4caf-a348-dcb32201659b/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1014.png" alt="LFEL1014" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/b244e2a4-6a5b-46d9-9755-bfb8a66ef50c/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs162.png" alt="LFS162" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/92e15c56-825d-48c3-bc63-5de2f91bfca9/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/></a>
+
 
 ## 🔓 Creator and maintainer of these projects
 

@@ -28,10 +28,16 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 <a href="https://www.credly.com/badges/00f3a021-a0ed-4363-a9e2-29d76d2ad9fb/public_url" target="_blank" rel="noreferrer"> <img src="images/gitops-at-scale.png" alt="GitOps at Scale" width="120" height="120"/></a>
 <a href="https://www.credential.net/719ca7e1-c498-4e23-96f9-03215938c020" target="_blank" rel="noreferrer"> <img src="images/akuity-argocd.png" alt="GitOps Akuity" width="120" height="120"/></a>
 <a href="https://academy.akuity.io/certificates/gyn6a8rxrd" target="_blank" rel="noreferrer"> <img src="images/akuity-kargo.png" alt="Kargo Akuity" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/6cb0c422-89f3-48d8-87c5-f7cf18a940cd/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs142.png" alt="LFS142" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/d1738c92-40dd-4ffb-9b41-28efe653d148/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs158.png" alt="LFS158" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/13a0601e-9d73-4433-81f6-8954df9602d1/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs148.png" alt="LFS148" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/2a3d76f2-015e-4caf-a348-dcb32201659b/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1014.png" alt="LFEL1014" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/b244e2a4-6a5b-46d9-9755-bfb8a66ef50c/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs162.png" alt="LFS162" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/2d68f567-0aa4-4fd9-a8e2-ea34eafe7834/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs145.png" alt="LFS145" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/28a91983-c672-44a0-8529-e85262a88f65/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs147.png" alt="LFS147" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/611cfe63-1314-4e0b-a1b2-6ccc376ceabd/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs182.png" alt="LFS182" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/d9d38d85-c31d-4dc6-bb16-da6345a99603/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs157.png" alt="LFS157" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/44964227-7161-4522-be98-4569bb9dc957/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs146.png" alt="LFS146" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/92e15c56-825d-48c3-bc63-5de2f91bfca9/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/></a>
 
 
@@ -39,9 +45,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 - [doKa-seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
 - [github-k8s-operator](https://github.com/thatmlopsguy/github-k8s-operator): kubernetes operator for managing gitHub repositories (golang)
-- [github-repo-operator-ansible](https://github.com/thatmlopsguy/github-repo-operator-ansible): kubernetes operator for managing gitHub repositories (ansible)
-- [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar): MkDocs plugin that generates an interactive Technology Radar
-- [asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater): argocd-image-updater plugin for the asdf version manager
+- [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar): MkDocs plugin that generates an interactive Technology Radarr
 - [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
 - [helm-charts](https://thatmlopsguy.github.io/helm-charts/): personal helm chart repository with charts for my projects and other useful tools

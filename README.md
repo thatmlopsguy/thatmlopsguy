@@ -59,15 +59,15 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Cloud
 
-[![Cloud Skills](https://skills.syvixor.com/api/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,argocd,github,githubactions,jenkins,gitlab,grafana,prometheus,loki,tempo,opentelemetry,slurm,bitbucket,snyk,servicenow,jira)](https://skillicons.dev)
+[![Cloud Skills](https://skills.syvixor.com/api/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,argocd,github,githubactions,jenkins,gitlab,grafana,helm,prometheus,loki,tempo,opentelemetry,slurm,bitbucket,datadog,snyk,servicenow,jira)](https://skillicons.dev)
 
 ### Backend
 
-[![Backend Skills](https://skills.syvixor.com/api/icons?i=flask,fastapi,celery,raylib,pytest,grpc)](https://skillicons.dev)
+[![Backend Skills](https://skills.syvixor.com/api/icons?i=openapi,rest,flask,fastapi,celery,raylib,pytest,grpc)](https://skillicons.dev)
 
 ### Databases & Messaging
 
-[![Database Skills](https://skills.syvixor.com/api/icons?i=sqlite,mongodb,postgresql,mysql,clickhouse,redis,rabbitmq,kafka,weaviate,dbeaver)](https://skillicons.dev)
+[![Database Skills](https://skills.syvixor.com/api/icons?i=sqlite,mongodb,postgresql,mysql,clickhouse,redis,valkey,rabbitmq,kafka,weaviate,dbeaver)](https://skillicons.dev)
 
 ### Machine Learning
 
@@ -75,7 +75,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Other Tools
 
-[![Other Skills](https://skills.syvixor.com/api/icons?i=vscode,git,docker,latex,md,yaml,regex,cookiecutter,githubpages,slack)](https://skillicons.dev)
+[![Other Skills](https://skills.syvixor.com/api/icons?i=systemd,vscode,git,docker,latex,md,yaml,regex,trivy,cookiecutter,githubpages,slack)](https://skillicons.dev)
 
 ## 🌐 Consulting Services
 

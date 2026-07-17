@@ -40,6 +40,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 <a href="https://www.credly.com/badges/44964227-7161-4522-be98-4569bb9dc957/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs146.png" alt="LFS146" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/ab0f2a31-3a6e-4860-b077-0b1929b2ceaf/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1009.png" alt="LFEL1009" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/5d3861aa-9f2f-4c15-a19f-21e12e0fbb69/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs140.png" alt="LFS140" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/abb6fc33-82b1-437c-be51-3e3ba2b41792/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1008.png" alt="LFEL1008" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/92e15c56-825d-48c3-bc63-5de2f91bfca9/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/></a>
 
 

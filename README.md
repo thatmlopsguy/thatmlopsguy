@@ -42,8 +42,19 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 <a href="https://www.credly.com/badges/ab0f2a31-3a6e-4860-b077-0b1929b2ceaf/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1009.png" alt="LFEL1009" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/5d3861aa-9f2f-4c15-a19f-21e12e0fbb69/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs140.png" alt="LFS140" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/abb6fc33-82b1-437c-be51-3e3ba2b41792/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1008.png" alt="LFEL1008" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/636f798a-f778-46bc-ae7c-4e20b5ac81ff/public_url" target="_blank" rel="noreferrer"> <img src="images/skf100.png" alt="SKF100" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/a70cbd08-c629-4c69-81ec-bfc51adc5eb8/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1012.png" alt="LFEL1012" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/b4097622-6f6b-40dc-a1ad-46ff94a61ddd/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1006.png" alt="LFEL1006" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/aae4c95e-c89c-4da1-9557-91a6ca76be10/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1004.png" alt="LFEL1004" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/46ab8d21-4f9c-42f6-a0d1-f1dcc3b735a9/public_url" target="_blank" rel="noreferrer"> <img src="images/lfd121.png" alt="LFE121" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/92e15c56-825d-48c3-bc63-5de2f91bfca9/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/></a>
-
+<a href="https://www.credly.com/badges/56b36477-1c66-412c-aef1-d9c453a0bb98/public_url" target="_blank" rel="noreferrer"> <img src="images/golden-signals-with-hubble-and-grafana.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/41e0aa8a-7efd-4b59-98f7-46c3ec3f7c09/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-advanced-gateway-api-use-cases.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/cfcdbd28-6072-4794-ba97-c4cf4645dee4/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-ai-ml-security.png" alt="Cilium AI/ML Security" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/1e4f0695-920a-45d8-a76b-812b340a442c/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-network-policies.png" alt="Cilium Network Policies" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/57bf0667-9bbc-4b1d-a66e-952a9e947e1d/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-platform-engineer.png" alt="Discovery: Platform Engineer" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/ba0093ea-4745-4a0a-9753-4271661273cc/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-secops-engineer.png" alt="Discovery: SecOps Engineer" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/08d6780b-5b2f-4863-9084-a2d291b550e7/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-network-engineer.png" alt="Discovery: Network Engineer" width="120" height="120"/></a>
 
 ## 🔓 Creator and maintainer of these projects
 

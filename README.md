@@ -78,7 +78,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Cloud
 
-[![Cloud Skills](https://skills.syvixor.com/api/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,argocd,github,githubactions,jenkins,gitlab,grafana,helm,prometheus,loki,tempo,opentelemetry,slurm,bitbucket,datadog,snyk,servicenow,jira)](https://skillicons.dev)
+[![Cloud Skills](https://skills.syvixor.com/api/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,argocd,github,githubactions,jenkins,gitlab,grafana,helm,prometheus,loki,tempo,opentelemetry,slurm,bitbucket,datadog,snyk,servicenow,jira,sonarqube)](https://skillicons.dev)
 
 ### Backend
 
@@ -90,7 +90,7 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 
 ### Machine Learning
 
-[![ML Skills](https://skills.syvixor.com/api/icons?i=huggingface,tensorflow,pytorch,sklearn,opencv,dvc,jupyter,googlegemini)](https://skillicons.dev)
+[![ML Skills](https://skills.syvixor.com/api/icons?i=claudeai,huggingface,pytorch,mlflow,dvc,jupyter,googlegemini)](https://skillicons.dev)
 
 ### Other Tools
 

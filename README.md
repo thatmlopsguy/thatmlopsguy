@@ -2,20 +2,30 @@
 
 ## 👨 About me
 
-Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` building practical, production-ready intelligent systems.
+Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` building practical, production-ready
+intelligent systems.
 
-A strong believer in GitOps and platform engineering, I work extensively with **ArgoCD** (including Events, Rollouts, and Workflows) and **Backstage** to empower developer self-service and streamline day-to-day operations.
-I focus on cloud-native ecosystems, particularly around **Kubernetes**, observability, and cross-account infrastructure management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their core product.
+A strong believer in GitOps and platform engineering, I work extensively with **ArgoCD** (including Events, Rollouts,
+and Workflows) and **Backstage** to empower developer self-service and streamline day-to-day operations.
+I focus on cloud-native ecosystems, particularly around **Kubernetes**, observability, and cross-account infrastructure
+management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their
+core product.
 
-Passionate about **Open Source** and **Developer Experience (DevEx)**, I actively contribute to building scalable internal platforms that remove roadblocks and return teams to productive flow.
+Passionate about **Open Source** and **Developer Experience (DevEx)**, I actively contribute to building scalable
+internal platforms that remove roadblocks and return teams to productive flow.
 
 You can find more information about me on my personal site at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 
 ## 📫 Contact
 
-Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you. If we agree that I could help you, we can schedule a chat.
+Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you.
+If we agree that I could help you, we can schedule a chat.
 
 ## 🏅 Certificates and Badges
+
+These are some of the certifications and badges I have earned over the years, demonstrating my expertise in various areas
+of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity
+and learn more about the skills and knowledge they represent.
 
 <a href="https://www.virtualbadge.io/certificate-validator?credential=80f133bc-342d-4990-a696-d211a9e5e9d1" target="_blank" rel="noreferrer"> <img src="images/platform-engineer.png" alt="Platform Engineer" width="120" height="120"/></a>
 <a href="https://www.virtualbadge.io/certificate-validator?credential=36855b34-c287-4167-beb2-298d9420063d" target="_blank" rel="noreferrer"> <img src="images/platform-ai-intro.png" alt="Intro to AI in platform engineering" width="120" height="120"/></a>
@@ -60,11 +70,13 @@ Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will a
 <a href="https://www.credly.com/badges/4775cd1f-f54a-47d1-8493-2de2fdd8a0d2/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-cloud-architect-on-aws.png" alt="Discovery: Cloud Engineer on AWS" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/fa92ceea-6467-4880-9a29-a57ce1117010/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-cloud-architect-on-azure.png" alt="Discovery: Cloud Engineer on Azure" width="120" height="120"/></a>
 
+More badges and certificates can be found on my [personal site](https://thatmlopsguy.github.io/certifications/).
+
 ## 🔓 Creator and maintainer of these projects
 
 - [doKa-seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
 - [github-k8s-operator](https://github.com/thatmlopsguy/github-k8s-operator): kubernetes operator for managing gitHub repositories (golang)
-- [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar): MkDocs plugin that generates an interactive Technology Radarr
+- [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar): MkDocs plugin that generates an interactive Technology Radar
 - [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
 - [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
 - [helm-charts](https://thatmlopsguy.github.io/helm-charts/): personal helm chart repository with charts for my projects and other useful tools

@@ -1,15 +1,21 @@
-# Hi there <img src="images/wave.gif" width="30px" height="30px" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=That%20MLOps%20Guy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20MLOps%20and%20Cloud%20Engineer&descAlignY=55&descSize=18)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=10%2B+Years+in+Cloud+and+Kubernetes+Engineering;GitOps+-+DevOps+-+AI+%26+LLM+Infrastructure" alt="Typing SVG" />
+</p>
 
 ## 👨 About me
 
-Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` building practical, production-ready
-intelligent systems.
+Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` managing cloud and on-premise
+environments across AWS, Azure and GCP, as well as private clouds. Specializing in Kubernetes ecosystems, CI/CD
+automation, GitOps practices, and AI/LLM infrastructure, including MLOps pipelines, RAG-based applications, and
+multi-agent AI systems. Leveraging Generative AI tools such as **Claude Code** to accelerate development, automate
+infrastructure, and improve engineering productivity.
 
-A strong believer in GitOps and platform engineering, I work extensively with **ArgoCD** (including Events, Rollouts,
-and Workflows) and **Backstage** to empower developer self-service and streamline day-to-day operations.
-I focus on cloud-native ecosystems, particularly around **Kubernetes**, observability, and cross-account infrastructure
-management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their
-core product.
+A strong believer in GitOps and platform engineering, I work extensively with **ArgoCD** and **Backstage** to empower
+developer self-service and streamline day-to-day operations. I focus on cloud-native ecosystems, particularly around
+**Kubernetes**, observability, and cross-account infrastructure management, designing highly automated, secure, and
+scalable platforms that let development teams concentrate on their core product.
 
 Passionate about **Open Source** and **Developer Experience (DevEx)**, I actively contribute to building scalable
 internal platforms that remove roadblocks and return teams to productive flow.

@@ -34,6 +34,7 @@ of cloud architecture, platform engineering, and DevOps practices. You can click
 and learn more about the skills and knowledge they represent.
 
 <a href="https://www.credly.com/badges/d871fbac-3985-4952-829e-eebf29e907c1/public_url" target="_blank" rel="noreferrer"> <img src="images/datadog-core-skills.png" alt="Core Skills Learning Path" width="120" height="120"/></a>
+<a href="https://www.credly.com/badges/20958128-d059-4f3b-aeb5-c1bfce57b92b/public_url" target="_blank" rel="noreferrer"> <img src="images/datadog-sre-skills.png" alt="Site Reliability Engineer Learning Path" width="120" height="120"/></a>
 <a href="https://www.virtualbadge.io/certificate-validator?credential=80f133bc-342d-4990-a696-d211a9e5e9d1" target="_blank" rel="noreferrer"> <img src="images/platform-engineer.png" alt="Platform Engineer" width="120" height="120"/></a>
 <a href="https://www.virtualbadge.io/certificate-validator?credential=36855b34-c287-4167-beb2-298d9420063d" target="_blank" rel="noreferrer"> <img src="images/platform-ai-intro.png" alt="Intro to AI in platform engineering" width="120" height="120"/></a>
 <a href="https://www.virtualbadge.io/certificate-validator?credential=0ef3e631-2246-413e-8a0c-0359d65920bd" target="_blank" rel="noreferrer"> <img src="images/platform-observability.png" alt="Observability for Platform Engineering" width="120" height="120"/></a>

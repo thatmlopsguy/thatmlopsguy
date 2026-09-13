@@ -17,9 +17,6 @@ developer self-service and streamline day-to-day operations. I focus on cloud-na
 **Kubernetes**, observability, and cross-account infrastructure management, designing highly automated, secure, and
 scalable platforms that let development teams concentrate on their core product.
 
-Passionate about **Open Source** and **Developer Experience (DevEx)**, I actively contribute to building scalable
-internal platforms that remove roadblocks and return teams to productive flow.
-
 You can find more information about me on my personal site at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 
 ## 📫 Contact

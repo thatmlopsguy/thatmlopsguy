@@ -12,10 +12,10 @@ automation, GitOps practices, and AI/LLM infrastructure, including MLOps pipelin
 multi-agent AI systems. Leveraging Generative AI tools such as **Claude Code** to accelerate development, automate
 infrastructure, and improve engineering productivity.
 
-A strong believer in GitOps and platform engineering, I work extensively with **ArgoCD** and **Backstage** to empower
-developer self-service and streamline day-to-day operations. I focus on cloud-native ecosystems, particularly around
-**Kubernetes**, observability, and cross-account infrastructure management, designing highly automated, secure, and
-scalable platforms that let development teams concentrate on their core product.
+A strong believer in GitOps and platform engineering, passionate about creating seamless developer experiences
+through modern platforms to empower developer self-service and streamline day-to-day operations.
+I focus on cloud-native ecosystems, particularly around **Kubernetes**, observability, and cross-account infrastructure
+management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their core product.
 
 You can find more information about me on my personal site at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 

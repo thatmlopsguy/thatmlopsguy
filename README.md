@@ -120,10 +120,3 @@ More badges and certificates can be found on my [personal site](https://thatmlop
 ### Other Tools
 
 [![Other Skills](https://skills.syvixor.com/api/icons?i=systemd,vscode,git,docker,latex,md,yaml,regex,trivy,cookiecutter,githubpages,slack)](https://skillicons.dev)
-
-## 🌐 Consulting Services
-
-I provide consulting to companies, teams, and projects of all sizes, helping them achieve technical excellence, high efficiency, and better human cohesion.
-See my [consulting page](https://thatmlopsguy.github.io/services/) for more details and to get in touch.
-
-<p align="center"><img src="images/handshake.gif" alt="handshake" style="width:20%; height:auto;" /></p>

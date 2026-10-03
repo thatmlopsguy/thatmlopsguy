@@ -30,6 +30,7 @@ These are some of the certifications and badges I have earned over the years, de
 of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity
 and learn more about the skills and knowledge they represent.
 
+<a href="https://www.credly.com/badges/7e405e80-e247-47c5-8262-dab8ea809fcb/public_url" target="_blank" rel="noreferrer"> <img src="images/ai-ml-guardian.png" alt="Chainguard AI/ML Guardian" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/4f8a755c-6e89-4482-8060-042d474bad47/public_url" target="_blank" rel="noreferrer"> <img src="images/grafana-promql-zero-to-hero-navigator.png" alt="PromQL Zero to Hero Navigator" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/19bdd0d7-6a46-4a84-9cbc-2a9d5ab866e0/public_url" target="_blank" rel="noreferrer"> <img src="images/grafana-observability-signals-foundations-navigator.png" alt="Observability Signals Foundations Navigator" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/f2d1e2c8-8285-407a-9951-44ddf4492e12/public_url" target="_blank" rel="noreferrer"> <img src="images/pagerduty-service-configuration-explorer.png" alt="PagerDuty Service Configuration" width="120" height="120"/></a>

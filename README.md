@@ -9,13 +9,14 @@
 Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` managing cloud and on-premise
 environments across AWS, Azure and GCP, as well as private clouds. Specializing in Kubernetes ecosystems, CI/CD
 automation, GitOps practices, and AI/LLM infrastructure, including MLOps pipelines, RAG-based applications, and
-multi-agent AI systems. Leveraging Generative AI tools such as **Claude Code** to accelerate development, automate
-infrastructure, and improve engineering productivity.
+multi-agent AI systems. Leveraging Generative AI tools to accelerate development, automate infrastructure, and improve
+engineering productivity.
 
 A strong believer in GitOps and platform engineering, passionate about creating seamless developer experiences
 through modern platforms to empower developer self-service and streamline day-to-day operations.
 I focus on cloud-native ecosystems, particularly around **Kubernetes**, observability, and cross-account infrastructure
-management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their core product.
+management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their
+core product.
 
 You can find more information about me on my personal site at [thatmlopsguy.github.io](https://thatmlopsguy.github.io).
 

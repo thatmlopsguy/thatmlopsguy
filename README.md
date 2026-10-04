@@ -28,7 +28,8 @@ If we agree that I could help you, we can schedule a chat.
 
 These are some of the certifications and badges I have earned over the years, demonstrating my expertise in various areas
 of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity
-and learn more about the skills and knowledge they represent.
+and learn more about the skills and knowledge they represent. More badges and certificates can be found on my
+[personal site](https://thatmlopsguy.github.io/certifications/).
 
 <a href="https://www.credly.com/badges/7e405e80-e247-47c5-8262-dab8ea809fcb/public_url" target="_blank" rel="noreferrer"> <img src="images/ai-ml-guardian.png" alt="Chainguard AI/ML Guardian" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/4f8a755c-6e89-4482-8060-042d474bad47/public_url" target="_blank" rel="noreferrer"> <img src="images/grafana-promql-zero-to-hero-navigator.png" alt="PromQL Zero to Hero Navigator" width="120" height="120"/></a>
@@ -71,7 +72,6 @@ and learn more about the skills and knowledge they represent.
 <a href="https://www.credly.com/badges/aae4c95e-c89c-4da1-9557-91a6ca76be10/public_url" target="_blank" rel="noreferrer"> <img src="images/lfel1004.png" alt="LFEL1004" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/46ab8d21-4f9c-42f6-a0d1-f1dcc3b735a9/public_url" target="_blank" rel="noreferrer"> <img src="images/lfd121.png" alt="LFE121" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/b0fff58e-2854-46c7-8bc1-9bc80d3aa2da/public_url" target="_blank" rel="noreferrer"> <img src="images/lfs144.png" alt="LFS144" width="120" height="120"/></a>
-<a href="https://www.credly.com/badges/92e15c56-825d-48c3-bc63-5de2f91bfca9/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-getting-started.png" alt="Cilium Getting Started" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/56b36477-1c66-412c-aef1-d9c453a0bb98/public_url" target="_blank" rel="noreferrer"> <img src="images/golden-signals-with-hubble-and-grafana.png" alt="Golden Signals with Hubble and Grafana" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/41e0aa8a-7efd-4b59-98f7-46c3ec3f7c09/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-advanced-gateway-api-use-cases.png" alt="Cilium Advanced Gateway API Use Cases" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/cfcdbd28-6072-4794-ba97-c4cf4645dee4/public_url" target="_blank" rel="noreferrer"> <img src="images/cilium-ai-ml-security.png" alt="Cilium AI/ML Security" width="120" height="120"/></a>
@@ -82,8 +82,6 @@ and learn more about the skills and knowledge they represent.
 <a href="https://www.credly.com/badges/08d6780b-5b2f-4863-9084-a2d291b550e7/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-network-engineer.png" alt="Discovery: Network Engineer" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/4775cd1f-f54a-47d1-8493-2de2fdd8a0d2/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-cloud-architect-on-aws.png" alt="Discovery: Cloud Engineer on AWS" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/fa92ceea-6467-4880-9a29-a57ce1117010/public_url" target="_blank" rel="noreferrer"> <img src="images/discovery-cloud-architect-on-azure.png" alt="Discovery: Cloud Engineer on Azure" width="120" height="120"/></a>
-
-More badges and certificates can be found on my [personal site](https://thatmlopsguy.github.io/certifications/).
 
 ## 🔓 Creator and maintainer of these projects
 

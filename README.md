@@ -32,6 +32,7 @@ of cloud architecture, platform engineering, and DevOps practices. You can click
 and learn more about the skills and knowledge they represent. More badges and certificates can be found on my
 [personal site](https://thatmlopsguy.github.io/certifications/).
 
+<a href="https://www.credly.com/badges/02f421fb-1d4d-4fba-a20c-9bc6212f0cbc/public_url" target="_blank" rel="noreferrer"> <img src="images/jfrog-curation-the-gateway-to-security.png" alt="JFrog Curation- The gateway to security" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/7e405e80-e247-47c5-8262-dab8ea809fcb/public_url" target="_blank" rel="noreferrer"> <img src="images/ai-ml-guardian.png" alt="Chainguard AI/ML Guardian" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/4f8a755c-6e89-4482-8060-042d474bad47/public_url" target="_blank" rel="noreferrer"> <img src="images/grafana-promql-zero-to-hero-navigator.png" alt="PromQL Zero to Hero Navigator" width="120" height="120"/></a>
 <a href="https://www.credly.com/badges/19bdd0d7-6a46-4a84-9cbc-2a9d5ab866e0/public_url" target="_blank" rel="noreferrer"> <img src="images/grafana-observability-signals-foundations-navigator.png" alt="Observability Signals Foundations Navigator" width="120" height="120"/></a>

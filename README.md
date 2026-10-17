@@ -6,14 +6,13 @@
 
 ## 👨 About me
 
-Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` managing cloud and on-premise
-environments across AWS, Azure and GCP, as well as private clouds. Specializing in Kubernetes ecosystems, CI/CD
-automation, GitOps practices, and AI/LLM infrastructure, including MLOps pipelines, RAG-based applications, and
-multi-agent AI systems. Leveraging Generative AI tools to accelerate development, automate infrastructure, and improve
-engineering productivity.
+Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` managing cloud environments across
+AWS, Azure and GCP, as well as private clouds. Specializing in Kubernetes ecosystems, CI/CD automation, GitOps practices,
+and AI/LLM infrastructure, including MLOps pipelines, RAG-based applications, and multi-agent AI systems.
+Leveraging Generative AI tools to accelerate development, automate infrastructure, and improve engineering productivity.
 
-A strong believer in GitOps and platform engineering, passionate about creating seamless developer experiences
-through modern platforms to empower developer self-service and streamline day-to-day operations.
+A strong believer in GitOps and platform engineering, passionate about creating seamless developer experiences through
+modern platforms to empower developer self-service and streamline day-to-day operations.
 I focus on cloud-native ecosystems, particularly around **Kubernetes**, observability, and cross-account infrastructure
 management, designing highly automated, secure, and scalable platforms that let development teams concentrate on their
 core product.
@@ -29,8 +28,7 @@ If we agree that I could help you, we can schedule a chat.
 
 These are some of the certifications and badges I have earned over the years, demonstrating my expertise in various areas
 of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity
-and learn more about the skills and knowledge they represent. More badges and certificates can be found on my
-[personal site](https://thatmlopsguy.github.io/certifications/).
+and learn more about the skills and knowledge they represent.
 
 | Organization | Badges |
 | --- | --- |

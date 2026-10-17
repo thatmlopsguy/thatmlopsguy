@@ -58,7 +58,7 @@ and learn more about the skills and knowledge they represent.
 
 ### Languages
 
-[![Languages Skills](https://skills.syvixor.com/api/icons?i=python,go,bash,zshell,r)](https://skillicons.dev)
+[![Languages Skills](https://skills.syvixor.com/api/icons?i=python,go,bash,zshell)](https://skillicons.dev)
 
 ### Cloud
 

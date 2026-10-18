@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=10%2B+Years+in+Cloud+and+Kubernetes+Engineering;GitOps+-+DevOps+-+AI+%26+LLM+Infrastructure" alt="Typing SVG" />
 </p>
 
+[![Website](https://img.shields.io/badge/Website-3C94C7?style=for-the-badge&logo=githubpages&logoColor=white)](https://thatmlopsguy.github.io/)
+[![Contact](https://img.shields.io/badge/Contact-643dc8?style=for-the-badge&logo=protonmail&logoColor=white)](https://thatmlopsguy.github.io/contact/)
+[![Resume](https://img.shields.io/badge/Resume-C7B43C?style=for-the-badge&logo=briefcase&logoColor=white)](https://thatmlopsguy.github.io/hire/)
+
 ## 👨 About me
 
 Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` managing cloud environments across
@@ -15,11 +19,6 @@ A strong believer in GitOps and platform engineering, passionate about creating 
 modern platforms to empower developer self-service and streamline day-to-day operations.
 I focus on cloud-native ecosystems, particularly around Kubernetes, observability, and cross-account infrastructure
 management, designing secure, and scalable platforms that let development teams concentrate on their core product.
-
-## 📫 Contact
-
-Feel free to [contact me](https://thatmlopsguy.github.io/contact/), and I will always get back to you.
-If we agree that I could help you, we can schedule a chat.
 
 ## 🏅 Certificates and Badges
 

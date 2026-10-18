@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=That%20MLOps%20Guy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20MLOps%20and%20Cloud%20Engineer&descAlignY=55&descSize=18)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=10%2B+Years+in+Cloud+and+Kubernetes+Engineering;GitOps+-+DevOps+-+AI+%26+LLM+Infrastructure" alt="Typing SVG" />
 </p>

@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-3C94C7?style=for-the-badge&logo=githubpages&logoColor=white)](https://thatmlopsguy.github.io/)
 [![Contact](https://img.shields.io/badge/Contact-643dc8?style=for-the-badge&logo=protonmail&logoColor=white)](https://thatmlopsguy.github.io/contact/)
-[![Resume](https://img.shields.io/badge/Resume-C7B43C?style=for-the-badge&logo=briefcase&logoColor=white)](https://thatmlopsguy.github.io/hire/)
+[![Resume](https://img.shields.io/badge/Resume-C7B43C?style=for-the-badge&logo=latex&logoColor=white)](https://thatmlopsguy.github.io/hire/)
 
 ## 👨 About me
 

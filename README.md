@@ -10,9 +10,9 @@
 
 ## 👨 About me
 
-Cloud Architect, {Dev/ML}Ops & Platform Engineer with over `10 years of experience` managing cloud environments across
-AWS, Azure and GCP, as well as private clouds. Specializing in Kubernetes ecosystems, CI/CD automation, GitOps practices,
-and AI/LLM infrastructure, including MLOps pipelines, RAG-based applications, and multi-agent AI systems.
+Cloud & Platform Engineer with over `10 years of experience` managing cloud environments across AWS, Azure and GCP, as
+well as private clouds. Specializing in Kubernetes ecosystems, CI/CD automation, GitOps practices, and AI/LLM
+infrastructure, including MLOps pipelines, RAG-based applications, and multi-agent AI systems.
 Leveraging Generative AI tools to accelerate development, automate infrastructure, and improve engineering productivity.
 
 A strong believer in GitOps and platform engineering, passionate about creating seamless developer experiences through

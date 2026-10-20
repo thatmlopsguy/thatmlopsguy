@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=10%2B+Years+in+Cloud+and+Kubernetes+Engineering;GitOps+-+DevOps+-+AI+%26+LLM+Infrastructure" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <a href="https://thatmlopsguy.github.io/"><img src="https://img.shields.io/badge/Website-3C94C7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
   <a href="https://thatmlopsguy.github.io/contact/"><img src="https://img.shields.io/badge/Contact-643dc8?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" /></a>
   <a href="https://thatmlopsguy.github.io/hire/"><img src="https://img.shields.io/badge/Resume-C7B43C?style=for-the-badge&logo=latex&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.credly.com/users/tony-silva.49b6a666/badges/credly"><img src="https://img.shields.io/badge/Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Badges" /></a>
 </p>
 
 

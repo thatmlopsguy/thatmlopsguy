@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://thatmlopsguy.github.io/"><img src="https://img.shields.io/badge/Website-3C94C7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
-  <a href="https://thatmlopsguy.github.io/contact/"><img src="https://img.shields.io/badge/Contact-643dc8?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" /></a>
-  <a href="https://thatmlopsguy.github.io/hire/"><img src="https://img.shields.io/badge/Resume-C7B43C?style=for-the-badge&logo=latex&logoColor=white" alt="Resume" /></a>
-  <a href="https://www.credly.com/users/tony-silva.49b6a666/badges/credly"><img src="https://img.shields.io/badge/Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Badges" /></a>
+  <a href="https://thatmlopsguy.github.io/"><img src="https://img.shields.io/badge/Website-0969DA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
+  <a href="https://thatmlopsguy.github.io/contact/"><img src="https://img.shields.io/badge/Contact-8250DF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" /></a>
+  <a href="https://thatmlopsguy.github.io/hire/"><img src="https://img.shields.io/badge/Resume-9A6700?style=for-the-badge&logo=latex&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.credly.com/users/tony-silva.49b6a666/badges/credly"><img src="https://img.shields.io/badge/Badges-BC4C00?style=for-the-badge&logo=credly&logoColor=white" alt="Badges" /></a>
+  <a href="https://thatmlopsguy.github.io/contributions/"><img src="https://img.shields.io/badge/Contributions-1A7F37?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" /></a>
 </p>
 
 

@@ -11,7 +11,7 @@
 </p>
 
 
-## 👨 About me
+## About me
 
 Cloud & Platform Engineer with over `10 years of experience` managing cloud environments across AWS, Azure and GCP, as
 well as private clouds. Specializing in Kubernetes ecosystems, CI/CD automation, GitOps practices, and AI/LLM
@@ -23,7 +23,7 @@ modern platforms to empower developer self-service and streamline day-to-day ope
 I focus on cloud-native ecosystems, particularly around Kubernetes, observability, and cross-account infrastructure
 management, designing secure, and scalable platforms that let development teams concentrate on their core product.
 
-## 🏅 Certificates and Badges
+## Certificates and Badges
 
 These are some of the certifications and badges I have earned over the years, demonstrating my expertise in various areas
 of cloud architecture, platform engineering, and DevOps practices. You can click on each badge to verify its authenticity
@@ -43,17 +43,19 @@ and learn more about the skills and knowledge they represent.
 | [The Linux Foundation](https://www.linuxfoundation.org) | <a href="https://www.credly.com/badges/6cb0c422-89f3-48d8-87c5-f7cf18a940cd/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/linux-foundation/lfs142.png" alt="LFS142" width="100" height="100"/></a> <a href="https://www.credly.com/badges/d1738c92-40dd-4ffb-9b41-28efe653d148/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/linux-foundation/lfs158.png" alt="LFS158" width="100" height="100"/></a> <a href="https://www.credly.com/badges/13a0601e-9d73-4433-81f6-8954df9602d1/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/linux-foundation/lfs148.png" alt="LFS148" width="100" height="100"/></a> <a href="https://www.credly.com/badges/28a91983-c672-44a0-8529-e85262a88f65/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/linux-foundation/lfs147.png" alt="LFS147" width="100" height="100"/></a> <a href="https://www.credly.com/badges/44964227-7161-4522-be98-4569bb9dc957/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/linux-foundation/lfs146.png" alt="LFS146" width="100" height="100"/></a> <a href="https://www.credly.com/badges/b0fff58e-2854-46c7-8bc1-9bc80d3aa2da/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/linux-foundation/lfs144.png" alt="LFS144" width="100" height="100"/></a> <a href="https://thatmlopsguy.github.io/certifications/" target="_blank" rel="noreferrer">See all (25) →</a> |
 | [Isovalent](https://isovalent.com) (part of [Cisco](https://www.cisco.com/))| <a href="https://www.credly.com/badges/56b36477-1c66-412c-aef1-d9c453a0bb98/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/isovalent/golden-signals-with-hubble-and-grafana.png" alt="Golden Signals with Hubble and Grafana" width="100" height="100"/></a> <a href="https://www.credly.com/badges/41e0aa8a-7efd-4b59-98f7-46c3ec3f7c09/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/isovalent/cilium-advanced-gateway-api-use-cases.png" alt="Cilium Advanced Gateway API Use Cases" width="100" height="100"/></a> <a href="https://www.credly.com/badges/cfcdbd28-6072-4794-ba97-c4cf4645dee4/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/isovalent/cilium-ai-ml-security.png" alt="Cilium AI/ML Security" width="100" height="100"/></a> <a href="https://www.credly.com/badges/92e15c56-825d-48c3-bc63-5de2f91bfca9/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/isovalent/cilium-getting-started.png" alt="Cilium Getting Started" width="100" height="100"/></a> <a href="https://www.credly.com/badges/1e4f0695-920a-45d8-a76b-812b340a442c/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/isovalent/cilium-network-policies.png" alt="Cilium Network Policies" width="100" height="100"/></a> <a href="https://www.credly.com/badges/334bd9e1-426e-415c-b537-1c2b2c6271fc/public_url" target="_blank" rel="noreferrer"> <img src="images/badges/isovalent/gitops-platform-engineering-with-cilium.png" alt="GitOps Platform Engineering with Cilium" width="100" height="100"/></a> <a href="https://thatmlopsguy.github.io/certifications/" target="_blank" rel="noreferrer">See all (35) →</a> |
 
-## 🔓 Creator and maintainer of these projects
+## Projects
 
-- [doKa-seca](https://github.com/thatmlopsguy/dokaseca-control-plane): framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)
-- [github-k8s-operator](https://github.com/thatmlopsguy/github-k8s-operator): kubernetes operator for managing gitHub repositories (golang)
-- [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar): MkDocs plugin that generates an interactive Technology Radar
-- [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project): blueprints for python based ML projects
-- [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks): devops pre-commit git hooks
-- [helm-charts](https://thatmlopsguy.github.io/helm-charts/): personal helm chart repository with charts for my projects and other useful tools
-- [k8sResourceResizer](https://github.com/thatmlopsguy/k8sResourceResizer): GitOps/ArgoCD compatible tool for resizing kubernetes resource limits and requests based on historical usage patterns
+| Project                                                                            | What it does                                                                                                          |
+|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [doKa-seca](https://github.com/thatmlopsguy/dokaseca-control-plane)                | framework for bootstrapping cloud-native platforms using Kubernetes in Docker (Kind)                                  |
+| [github-k8s-operator](https://github.com/thatmlopsguy/github-k8s-operator)         | kubernetes operator for managing gitHub repositories (golang)                                                         |
+| [mkdocs-tech-radar](https://github.com/thatmlopsguy/mkdocs-tech-radar)             | MkDocs plugin that generates an interactive Technology Radar                                                          |
+| [cookiecutter-ml-project](https://github.com/thatmlopsguy/cookiecutter-ml-project) | blueprints for python based ML projects                                                                               |
+| [pre-commit-hooks](https://github.com/thatmlopsguy/pre-commit-hooks)               | devops pre-commit git hooks                                                                                           |
+| [helm-charts](https://thatmlopsguy.github.io/helm-charts/)                         | personal helm chart repository with charts for my projects and other useful tools                                     |
+| [k8sResourceResizer](https://github.com/thatmlopsguy/k8sResourceResizer)           | GitOps/ArgoCD compatible tool for resizing kubernetes resource limits and requests based on historical usage patterns |
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -61,7 +63,7 @@ and learn more about the skills and knowledge they represent.
 
 ### Cloud
 
-[![Cloud Skills](https://skills.syvixor.com/api/icons?i=kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,argocd,github,githubactions,jenkins,gitlab,grafana,helm,prometheus,loki,tempo,opentelemetry,slurm,bitbucket,datadog,snyk,servicenow,jira,sonarqube)](https://skillicons.dev)
+[![Cloud Skills](https://skills.syvixor.com/api/icons?i=docker,kubernetes,aws,gcp,azure,cloudflare,linux,terraform,ansible,argocd,github,githubactions,jenkins,gitlab,grafana,helm,prometheus,loki,tempo,opentelemetry,slurm,bitbucket,datadog,snyk,servicenow,jira,sonarqube)](https://skillicons.dev)
 
 ### Backend
 
@@ -73,8 +75,4 @@ and learn more about the skills and knowledge they represent.
 
 ### Machine Learning
 
-[![ML Skills](https://skills.syvixor.com/api/icons?i=claudeai,huggingface,pytorch,mlflow,dvc,jupyter,googlegemini)](https://skillicons.dev)
-
-### Other Tools
-
-[![Other Skills](https://skills.syvixor.com/api/icons?i=systemd,vscode,git,docker,latex,md,yaml,regex,trivy,cookiecutter,githubpages,slack)](https://skillicons.dev)
+[![ML Skills](https://skills.syvixor.com/api/icons?i=claudeai,huggingface,pytorch,mlflow,dvc,googlegemini)](https://skillicons.dev)

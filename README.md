@@ -71,7 +71,7 @@ and learn more about the skills and knowledge they represent.
 
 ### Databases & Messaging
 
-[![Database Skills](https://skills.syvixor.com/api/icons?i=sqlite,mongodb,postgresql,mysql,clickhouse,redis,valkey,rabbitmq,kafka,weaviate,dbeaver)](https://skillicons.dev)
+[![Database Skills](https://skills.syvixor.com/api/icons?i=sqlite,mongodb,postgresql,mysql,clickhouse,redis,rabbitmq,kafka)](https://skillicons.dev)
 
 ### Machine Learning
 
